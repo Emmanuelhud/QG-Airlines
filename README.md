@@ -13,8 +13,11 @@ This particular application would be created around the Queensgate Airlines scen
 
 ### How to use:
 1. Login in using one of the following credentials -
+
 _- email: k.l.hutton@assign3.ac.uk password: password_
+
 _- email: y.miandad@assign3.ac.uk password: letmein_
+
 _- email: s.laxman@assign3.ac.uk password: password2_
 
 Different users have different roles and so will be authorised to access pages in the application.
